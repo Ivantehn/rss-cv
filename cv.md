@@ -14,8 +14,7 @@
 
 >> А сегодня в завтрашний день не все могут смотреть. Вернее смотреть могут не только лишь все, мало кто может это делать
 ---
-[Моя страничка](https://github.com/Ivantehn)
+[Ivantehn](https://github.com/Ivantehn)
 ---
 ![Ссылка на меня](img/1380310923-lvitsi-ch2--32.jpg)
 ---
-[Ivantehn](https://github.com/Ivantehn)
